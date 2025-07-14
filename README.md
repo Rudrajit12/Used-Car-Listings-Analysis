@@ -20,7 +20,7 @@ This project explores a dataset of used car listings from a car buy/sell platfor
 
 ### Dataset Summary:
 - **Source:** Provided internally, resembling CarDekho listings  
-- **Dataset:** [`Car details v3.csv`](./Car_details_v3.csv)  
+- **Dataset:** [📄 Download Dataset (CSV)](https://drive.google.com/uc?export=download&id=1N-G-2hXr-2ZFpP0yKQHHEi6ho58HTAqo) 
 - **Size:** 8,128 records, 13 features  
 - **Features include:**
   - Car name, year, selling price, km driven
@@ -91,7 +91,7 @@ This analysis reveals:
 
 The final Tableau dashboard provides a comprehensive, visual tool to explore these dynamics interactively.
 
-![Car Features Dashboard](./Car_Features_Dashboard.png)
+![Car Features Dashboard](https://drive.google.com/uc?export=view&id=17e3pbELD_o81pQlwEbRqgTdJNTjV52pU)
 
 ---
 
